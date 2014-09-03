@@ -1,0 +1,6 @@
+Debug/
+Release/
+*.exe
+*.dll
+*.ncb
+*.opt
